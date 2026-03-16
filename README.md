@@ -21,14 +21,14 @@ This PR is where you'll see your automated test results.
 
 1. Go to the repository that GitHub Classroom created for you. It should look like:
    ```
-   https://github.com/CSC483-583-Spring-2026/02-boolean-phrase-wildcard-<your-username>
+   https://github.com/CSC483-583-Spring-2026/03-tdidf-<your-username>
    ```
    where `<your-username>` is your GitHub username.
 
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/CSC483-583-Spring-2026/02-boolean-phrase-wildcard-<your-username>.git
-   cd 02-boolean-phrase-wildcard-<your-username>
+   git clone https://github.com/CSC483-583-Spring-2026/03-tdidf-<your-username>.git
+   cd 03-tdidf-<your-username>
    ```
 
 ## Write Your Code
